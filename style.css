@@ -1,0 +1,126 @@
+.maha10 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #ffff;
+    height: 1500px;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 40%;
+    padding: 10px;
+    margin-top: 7px;
+    border: 2px solid #c4ea1d;
+    border-radius: 30px;
+    height: 30px;
+    font-size: 15px;
+    background-color: #fff;
+}
+
+.maha7 {
+    background-color: #b1d510;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    cursor: pointer;
+    height: 48px;
+}
+
+#download-status {
+    margin-top: 10px;
+}
+
+#download-link {
+    margin-top: 10px;
+    text-align: center;
+}
+.maha{
+    margin-top: 70px;
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+.maha1{
+    margin-top: 1%;
+    color: #817d7d ;
+    font-size: 14px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.maha2{
+    margin-top: 30px;
+    color: white;
+}
+.maha3{
+    padding-top: 20px;
+}
+.maha4{
+    margin-top: 200px;
+    font-size: 25px;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: scroll-text 5s linear infinite;
+}
+      
+@keyframes maha4 {
+        0% {
+          transform: translateX(100%);
+        }
+        100% {
+          transform: translateX(-100%);
+        }
+    
+}
+.maha6{
+    padding-top: 20px;
+}
+footer{
+    border: 0px;
+    margin-top: 1500px;
+    font-size: 17px;
+    color: white;
+    margin-bottom: 25px;
+    text-decoration: none;
+    background-color: #121111;
+    font-size: 18px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 10px    ;
+}
+.maha11{
+    font-size: 20px;
+}
+.kar1{
+    padding: 30px;
+    text-align: center;
+    padding: 20px;
+}
+.kar2{
+    padding: 10px;
+    text-align: center;
+    padding: 20px;
+}
+.kar5{
+    margin-top: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 40px;
+}
+#linkForm{
+    background-color: white;
+}
